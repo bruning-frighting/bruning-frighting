@@ -46,7 +46,7 @@ I have been sharpening my skills and knowledge through **domestic and internatio
 
 ##  CV & Contact
 
--  **[My CV (PDF)](https://github.com/bruning-frighting/KAiZ3nThong/raw/main/CV_LamTanThong_SOC_IR.pdf)**  
+-  **[My CV (PDF)](https://github.com/bruning-frighting/bruning-frighting/blob/main/CV_LamTanThong.pdf)**  
 -  Email: **thongtan967@gmail.com**  
 -  LinkedIn: [Lam Tan Thong](https://www.linkedin.com/in/kaiz3n/)  
 -  Blog: [kaiz3n.github.io](https://github.com/bruning-frighting/KAiZ3nThong)  
