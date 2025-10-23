@@ -1,6 +1,3 @@
-
-# 👨‍💻 About Me  
-
 Hi, I'm **KAiZ3n** 👋  
 
 🎓 **Third-year Information Security student** @ [PTIT (Posts and Telecommunications Institute of Technology)](https://portal.ptit.edu.vn)  
@@ -10,7 +7,7 @@ Hi, I'm **KAiZ3n** 👋
 I have been sharpening my skills and knowledge through **domestic and international CTF competitions**, hands-on projects, and continuous learning. 
 ---
 
-## About Me
+## 👨‍💻 About Me  
 
 > “Continuous improvement is Kaizen — I apply it in security, learning, and life.”
 
