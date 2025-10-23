@@ -2,64 +2,63 @@
 # 👨‍💻 About Me  
 
 Hi, I'm **KAiZ3n** 👋  
-Currently a **3rd-year student at PTIT HCM (Posts and Telecommunications Institute of Technology, Ho Chi Minh City)**.  
-My main career orientation is **Incident Response (IR)**, with a strong passion for **DFIR (Digital Forensics and Incident Response)** and **Malware Analysis**.  
+🎓 **Third-year Information Security student** @ [PTIT (Posts and Telecommunications Institute of Technology)](https://portal.ptit.edu.vn)  
+💼 Aspiring **SOC / Incident Response Engineer**  
+⚙️ Hands-on experience in **DFIR, Threat Hunting, Reverse Engineering, and Malware Analysis**  
+📍 Based in Vietnam 🇻🇳 | Open for internship opportunities in **SOC / Blue Team / DFIR**
+I have been sharpening my skills and knowledge through **domestic and international CTF competitions**, hands-on projects, and continuous learning. 
+---
 
-I have been sharpening my skills and knowledge through **domestic and international CTF competitions**, hands-on projects, and continuous learning.  
+## About Me
+
+> “Continuous improvement is Kaizen — I apply it in security, learning, and life.”
+
+- Building hands-on SOC labs with **Splunk, Wazuh, Zeek, Suricata, Sysmon**
+- Practicing malware analysis (Covenant C2, InfoStealer, Valyria, BlackLotus)
+- Developing detection pipelines for **C2 traffic, persistence artifacts, and memory forensics**
+- Sharing research and notes at my [KAiZ3n Blog](https://hackmd.io/@kAiZ3n)
+- Always learning: Blue Team tactics, DFIR automation, and AI-assisted detection
 
 ---
 
-## 🏆 Achievements  
+##  Technical Skills
 
-- **Google CyberSecurity Certificate**  
-- **CTF Competitions**  
-  - 🥇 Top 7 – HacktheOn Sejong Finals 2025  (International Competition)
-  - 🥇 Top 7 – Kashi CTF 2024  
-  - 🥇 Top 23 – DeadFace CTF 2024  
-  - 🥇 Top 7 – ACECTF 2024  
-  - 🥇 Top 23 – H7Tex international 2024
-  - 🥇 Top 22 – KnightCTF 2024  
-  - 🥇 Top 9 – VishwaCTF 2025  
-  - 🥇 Top 8 – BlitzCTF 2025  
-  - 🥇 Top 3 – CapturePoint 5353 3.0 CTF  
-  - 🥇 Top 42 - HTB Sherlock Homeless - Blue Team Only CTF 2025
+| Domain | Tools / Frameworks |
+|:-------|:-------------------|
+| **SOC & SIEM** | Wazuh, Splunk, ELK, Sigma Rules, Sysmon |
+| **Incident Response** | Volatility3, KAPE, pypykatz, Autopsy, DFIR-Orc |
+| **Threat Hunting** | Zeek, Suricata, Wireshark, SysmonView |
+| **Malware Analysis** | IDA Pro, Ghidra, x64dbg, PEStudio, YARA |
+| **Development** | Python, PowerShell, Bash, Go |
+| **Visualization / Reports** | Power BI, Jupyter Notebook |
+| **OS Environments** | Windows, Ubuntu Server, WSL2, VMware Workstation |
 
 ---
 
-## 🛠️ Skills  
 
-### 🔍 Disk & File System Analysis  
-- **Autopsy**, **FTK**, **R-Studio**, **Active Disk Editor**  
-- **File Carving**, **Eric Zimmerman's Toolkit**  
 
-### 🦠 Malware Analysis  
-- **IDA Pro**, **Binary Ninja**, **x64dbg**  
-- **floss**, **bloohunter**, **API Monitor**  
-- **PE-bear**, **CFF Explorer**, **dnSpy/ILSpy**  
-- **Microsoft SysInternals Suite**  
+## 📈 GitHub Stats
 
-### 📑 Log Analysis  
-- **Sysmon**  
-- **PowerShell Query**  
-
-### 🌐 Network & Traffic Analysis  
-- **Wireshark**, **tshark (CLI)**, **Python scripting**  
-- **NetworkMiner**  
-
-### 🧠 Memory Forensics  
-- **Volatility**, **MemProcFS**, **Docker (for custom profile building)**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bruning-frighting&show_icons=true&theme=tokyonight" alt="KAiZ3n's GitHub stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruning-frighting&layout=compact&theme=tokyonight" width="49%"/>
+</p>
 
 ---
 
-## 📚 What This Page Is About  
+##  CV & Contact
 
-This space is dedicated to sharing my **experiences, projects, research, and write-ups** in the fields of **Digital Forensics, Incident Response, and Malware Analysis**.  
+-  **[My CV (PDF)](https://github.com/bruning-frighting/KAiZ3nThong/raw/main/CV_LamTanThong_SOC_IR.pdf)**  
+-  Email: **thongtan967@gmail.com**  
+-  LinkedIn: [Lam Tan Thong](https://www.linkedin.com/in/kaiz3n/)  
+-  Blog: [kaiz3n.github.io](https://github.com/bruning-frighting/KAiZ3nThong)  
+-  Motto: *“Learn deeply, automate wisely, defend quietly.”*
 
-- 📖 **Writeups** from CTFs and challenges  
-- 🛠️ **Projects** and custom-built tools  
-- ✍️ **Blogs & Notes** documenting my learning journey  
+---
 
-All resources, tools, and writeups are maintained on my **[GitHub](https://github.com/)**.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bruning-frighting&label=Profile+Views&color=blueviolet&style=flat" alt="views"/>
+</p>
 
 ---
 
