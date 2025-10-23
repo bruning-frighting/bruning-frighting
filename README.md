@@ -1,10 +1,12 @@
 Hi, I'm **KAiZ3n** 👋  
 
-🎓 **Third-year Information Security student** @ [PTIT (Posts and Telecommunications Institute of Technology)](https://portal.ptit.edu.vn)  
+🎓 **Third-year Information Security student** at [PTIT (Posts and Telecommunications Institute of Technology)](https://portal.ptit.edu.vn)  
 💼 Aspiring **SOC / Incident Response Engineer**  
 ⚙️ Hands-on experience in **DFIR, Threat Hunting, Reverse Engineering, and Malware Analysis**  
-📍 Based in Vietnam 🇻🇳 | Open for internship opportunities in **SOC / Blue Team / DFIR**
-I have been sharpening my skills and knowledge through **domestic and international CTF competitions**, hands-on projects, and continuous learning. 
+📍 Based in Vietnam 🇻🇳 | Open for internship opportunities in **SOC / Blue Team / DFIR**  
+
+I have been sharpening my skills and knowledge through **domestic and international CTF competitions**, hands-on projects, and continuous learning.
+
 ---
 
 ## 👨‍💻 About Me  
