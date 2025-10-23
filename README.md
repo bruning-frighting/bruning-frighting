@@ -1,4 +1,4 @@
-Hi, I'm **KAiZ3n** 👋  
+#  Hi, I'm **KAiZ3n** 👋  
 
 🎓 **Third-year Information Security student** at [PTIT (Posts and Telecommunications Institute of Technology)](https://portal.ptit.edu.vn)  
 💼 Aspiring **SOC / Incident Response Engineer**  
@@ -25,7 +25,6 @@ I have been sharpening my skills and knowledge through **domestic and internatio
 
 | Domain | Tools / Frameworks |
 |:-------|:-------------------|
-| **SOC & SIEM** | Wazuh, Splunk, ELK, Sigma Rules, Sysmon |
 | **Incident Response** | Volatility3, KAPE, pypykatz, Autopsy, DFIR-Orc |
 | **Threat Hunting** | Zeek, Suricata, Wireshark, SysmonView |
 | **Malware Analysis** | IDA Pro, Ghidra, x64dbg, PEStudio, YARA |
