@@ -13,7 +13,6 @@ I have been sharpening my skills and knowledge through **domestic and internatio
 
 > “Continuous improvement is Kaizen — I apply it in security, learning, and life.”
 
-- Building hands-on SOC labs with **Splunk, Wazuh, Zeek, Suricata, Sysmon**
 - Practicing malware analysis (Covenant C2, InfoStealer, Valyria, BlackLotus)
 - Developing detection pipelines for **C2 traffic, persistence artifacts, and memory forensics**
 - Sharing research and notes at my [KAiZ3n Blog](https://hackmd.io/@kAiZ3n)
