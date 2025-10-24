@@ -25,7 +25,7 @@ I have been sharpening my skills and knowledge through **domestic and internatio
 | Domain | Tools / Frameworks |
 |:-------|:-------------------|
 | **Incident Response** | Volatility3, KAPE, pypykatz, Autopsy, DFIR-Orc |
-| **Threat Hunting** | Zeek, Suricata, Wireshark, SysmonView |
+| **Network Analysis** | Suricata, Wireshark, NetworkMiner |
 | **Malware Analysis** | IDA Pro, Ghidra, x64dbg, PEStudio, YARA |
 | **Development** | Python, PowerShell, Bash, Go |
 | **Visualization / Reports** | Power BI, Jupyter Notebook |
